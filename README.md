@@ -1,2 +1,2 @@
-# Linux
+# Shell
 Ejercicios de prueba usando Ubuntu
